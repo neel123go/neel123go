@@ -1,11 +1,10 @@
 ![I am a Junior Front-end developer. ](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1663676146~exp=1663676746~hmac=2956e766213fdaa4becb471795ffcce585dd11eed4a92575c5f7217a65455413)
 
-## :mailbox: Reach me out
+## :mailbox: Connect with me
 
 <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/neel66262882" target="blank" style="bg-black"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neel66262882" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayoun-paul-neel-7b21a1241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoun-paul-neel-7b21a1241" height="30" width="40" /></a>
 <a href="https://fb.com/ayounpaul.neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayounpaul.neel" height="30" width="40" /></a>
