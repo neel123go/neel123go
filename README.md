@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ayoun Paul Neel</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
@@ -5,9 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neel123go" alt="neel123go" /></a> </p>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <p align="left"> <a href="https://twitter.com/neel66262882" target="blank"><img src="https://img.shields.io/twitter/follow/neel66262882?logo=twitter&style=for-the-badge" alt="neel66262882" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"/>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/web-developer-hands-using-tablet-pc-creating-program-code-development-software-programming-concept_48369-33861.jpg?w=1380"/>
 
 - 🔭 I’m currently working on **Capture**
 
