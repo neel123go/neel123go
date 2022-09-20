@@ -25,40 +25,19 @@
 
 
 ## Github Stats  
-<table><tr><td valign="left" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neel123go&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="right" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel123go&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-
-<table><tr><td valign="left" width="50%">
-
-<a href="#" title="Trungquandev">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-  </a>
-</td>
-<td valign="right" width="50%">
-
-<a href="#" title="Trungquandev">
-    <img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=neel123go&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="left" width="50%">
+![neel123go's Stats](https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+    </td>
+    <td valign="right" width="50%">
+![neel123go's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=tokyonight&hide_border=true)
+    </td>
+  </tr>
+</table>  
 
 <br/>
-
-## chart_with_upwards_trend: Current Stats
-
-![neel123go's Stats](https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
 
 ## Connect with me  
 <div align="center">
