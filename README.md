@@ -1,63 +1,64 @@
-![I am a Junior Front-end developer. ](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1663676146~exp=1663676746~hmac=2956e766213fdaa4becb471795ffcce585dd11eed4a92575c5f7217a65455413)
+<div align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQHfnu6ZG7N64A/profile-displaybackgroundimage-shrink_350_1400/0/1663688880009?e=1669248000&v=beta&t=BM1tLjPSJ7DnUlMWjicjNTO7KPzHrhbaw_bTRJ_4kY8" align="center" style="width: 100%" />
+</div>  
+  
 
-## :mailbox: Connect with me
+#### <div align="center">Hi! I am Ayoun Paul Neel, A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development.</div>  
+  
+
+- 🔭 I’m currently working on [Capture Web Application](https://capture-e966c.web.app/)  
+  
+
+- 🌱 I’m currently learning Redux  
+  
+
+- ❓ Ask me about anything related to Web Development  
+  
+
+- ✉️ How to reach me ayounpaul1029@gmail.com  
+  
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1dd5WJRalDhF3a3kVBnPXzs7fyaqggb02/view)  
+  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/https://twitter.com/Neel66262882" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayoun-paul-neel-7b21a1241/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/neel123go" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/ayounpaul.neel" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neel123go&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel123go&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
 
 <br />
 
-<p align="center">
-
-<a href="https://linkedin.com/in/ayoun-paul-neel-7b21a1241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoun-paul-neel-7b21a1241" height="30" width="40" /></a>
-<a href="https://fb.com/ayounpaul.neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayounpaul.neel" height="30" width="40" /></a>
-  <a href="https://twitter.com/neel66262882" target="blank" style="bg-black"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neel66262882" height="30" width="40" /></a>
-</p>
-
-<br />
-
-## :eyes: Current overview
-
-<div align="left">
-<!-- <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a> -->
-</div>
-
-### 🔭 I’m working on a project - Capture.
-### 🌱 I’m currently learning - Redux.
-### 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-780b9.web.app/)
-### 📫 How to reach me **ayounpaul1029@gmail.com**
-### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dd5WJRalDhF3a3kVBnPXzs7fyaqggb02/view)
-
-
-<br />
-
-## :computer: Technologies that I know
-<br>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-</p><br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neel123go&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neel123go&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=neel123go&icon=0&color=0)](https://visitcount.itsvg.in)
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
