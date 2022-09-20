@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ]([https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png](https://img.freepik.com/premium-vector/web-developer-hands-using-tablet-pc-creating-program-code-development-software-programming-concept_48369-33861.jpg?w=1380))
+![I am a Junior Front-end developer. ](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1663676146~exp=1663676746~hmac=2956e766213fdaa4becb471795ffcce585dd11eed4a92575c5f7217a65455413)
 
 ## :mailbox: Reach me out
 
