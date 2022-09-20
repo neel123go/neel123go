@@ -37,14 +37,42 @@
 
 <br/>  
 
-<div align="center">
-  <a href="#" title="Trungquandev">
+
+
+
+<table><tr><td valign="top" width="50%">
+
+<a href="#" title="Trungquandev">
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRAKIB17&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+</td>
+<td valign="top" width="50%">
+
+<a href="#" title="Trungquandev">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SRAKIB17&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</td></tr></table>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+
+<div align="center">
+  
+  
+</div> -->
 <br/>
 
 ## chart_with_upwards_trend: Current Stats
