@@ -5,7 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neel123go" alt="neel123go" /></a> </p>
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <p align="left"> <a href="https://twitter.com/neel66262882" target="blank"><img src="https://img.shields.io/twitter/follow/neel66262882?logo=twitter&style=for-the-badge" alt="neel66262882" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"/>
+
+- 🔭 I’m currently working on **Capture**
+
+- 🌱 I’m currently learning **Redux**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-780b9.web.app/](https://my-portfolio-780b9.web.app/)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **ayounpaul1029@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dd5WJRalDhF3a3kVBnPXzs7fyaqggb02/view](https://drive.google.com/file/d/1dd5WJRalDhF3a3kVBnPXzs7fyaqggb02/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
