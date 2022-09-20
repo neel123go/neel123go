@@ -4,11 +4,12 @@
 
 <br />
 
-[<p align="center">
-<p>Linked In</p>
-<p>Facebook</p>
-<p>Twitter</p>
-</p>](https://twitter.com/_mir_hussain_)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/neel66262882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neel66262882" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayoun-paul-neel-7b21a1241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoun-paul-neel-7b21a1241" height="30" width="40" /></a>
+<a href="https://fb.com/ayounpaul.neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayounpaul.neel" height="30" width="40" /></a>
+</p>
 
 <br />
 
