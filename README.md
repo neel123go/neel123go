@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-780b9.web.app/](https://my-portfolio-780b9.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-780b9.web.app/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ayounpaul1029@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dd5WJRalDhF3a3kVBnPXzs7fyaqggb02/view](https://drive.google.com/file/d/1dd5WJRalDhF3a3kVBnPXzs7fyaqggb02/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1dd5WJRalDhF3a3kVBnPXzs7fyaqggb02/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
