@@ -57,9 +57,7 @@
 
 ## chart_with_upwards_trend: Current Stats
 
-<br />
 ![neel123go's Stats](https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<br />
 
 
 ## Connect with me  
