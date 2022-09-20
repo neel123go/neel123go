@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="left">Hi! I am Ayoun Paul Neel, A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development.</div>  
+#### <p align="left">Hi! I am Ayoun Paul Neel, A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development.</p>  
   
 
 - 🔭 I’m currently working on [Capture Web Application](https://capture-e966c.web.app/)  
