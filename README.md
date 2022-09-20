@@ -26,16 +26,10 @@
 
 ## Github Stats  
 
-<table>
-  <tr>
-    <td valign="left" width="50%">
 ![neel123go's Stats](https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-    </td>
-    <td valign="right" width="50%">
+
 ![neel123go's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=tokyonight&hide_border=true)
-    </td>
-  </tr>
-</table>  
+
 
 <br/>
 
