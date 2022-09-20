@@ -6,9 +6,9 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ayoun-paul-neel-7b21a1241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoun-paul-neel-7b21a1241" height="30" width="40" /> LINKED IN</a>
-<a href="https://fb.com/ayounpaul.neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayounpaul.neel" height="30" width="40" /> FACEBOOK</a>
-  <a href="https://twitter.com/neel66262882" target="blank" style="bg-black"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neel66262882" height="30" width="40" /> TWITTER</a>
+<a href="https://linkedin.com/in/ayoun-paul-neel-7b21a1241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoun-paul-neel-7b21a1241" height="30" width="40" /></a>
+<a href="https://fb.com/ayounpaul.neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayounpaul.neel" height="30" width="40" /></a>
+  <a href="https://twitter.com/neel66262882" target="blank" style="bg-black"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neel66262882" height="30" width="40" /></a>
 </p>
 
 <br />
