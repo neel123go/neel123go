@@ -49,6 +49,20 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+<br/>
+
+## Github Stats  
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neel123go&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=dark&hide_border=true" />
+</div>
+
+<br/>
+
+[![Ayoun Paul Neel's github activity graph](https://activity-graph.herokuapp.com/graph?username=neel123go&bg_color=ffffff&color=777777&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/neel123go/github-readme-activity-graph)
+
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -66,18 +80,3 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
-
-<br/>
-
-[![Ayoun Paul Neel's github activity graph](https://activity-graph.herokuapp.com/graph?username=neel123go&bg_color=ffffff&color=777777&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/neel123go/github-readme-activity-graph)
-
-## Github Stats  
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neel123go&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=dark&hide_border=true" />
-</div>
-
-
-<br/>
-<br/>
