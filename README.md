@@ -3,9 +3,7 @@
   <h3 align="center">Hi there 👋, I'm Ayoun Paul Neel</h1>
 </div>  
 <h5 align="center">A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development</h3>
-
-<!-- <p align="left">Hi! I am Ayoun Paul Neel, A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development.</p>   -->
-  
+  <br/>
 
 - 🔭 I’m currently working on [Capture Web Application](https://capture-e966c.web.app/)  
   
