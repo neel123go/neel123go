@@ -44,7 +44,7 @@
 ![JWT Token](https://img.shields.io/badge/jwt-token-black?style=for-the-badge&logo=jwt-token&badgeColor=010101)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)
+![MongoDB](https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b&border=black)
 
 ### Hosting
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
