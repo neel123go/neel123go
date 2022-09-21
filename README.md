@@ -25,21 +25,6 @@
 <br/>  
 
 
-## Github Stats  
-
-<div align="center">
-  
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=tokyonight&hide_border=true" />
-</div>
-
-
-
-
-<br/>
-<br/>
-
 ## Connect with me  
 <div align="center">
 <br/>
@@ -56,3 +41,21 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+<br/>
+
+
+## Github Stats  
+
+<div align="center">
+  
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=tokyonight&hide_border=true" />
+</div>
+
+
+
+
+<br/>
+<br/>
