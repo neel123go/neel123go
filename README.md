@@ -49,9 +49,9 @@
 
 <div align="center">
   
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=tokyonight&hide_border=true" />
+  <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=tokyonight&hide_border=true" />
 </div>
 
 
