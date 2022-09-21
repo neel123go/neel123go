@@ -1,9 +1,10 @@
 <div align="center">
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQHfnu6ZG7N64A/profile-displaybackgroundimage-shrink_350_1400/0/1663688880009?e=1669248000&v=beta&t=BM1tLjPSJ7DnUlMWjicjNTO7KPzHrhbaw_bTRJ_4kY8" align="center" style="width: 100%" />
+  <h1 align="center">Hi 👋, I'm Ismat Ara</h1>
 </div>  
-  
+<h3 align="center">Full Stack Developer | React Developer | Front End Developer</h3>
 
-#### <p align="left">Hi! I am Ayoun Paul Neel, A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development.</p>  
+<!-- <p align="left">Hi! I am Ayoun Paul Neel, A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development.</p>   -->
   
 
 - 🔭 I’m currently working on [Capture Web Application](https://capture-e966c.web.app/)  
