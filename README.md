@@ -69,7 +69,7 @@
 
 <br/>
 
-[![Ayoun Paul Neel's github activity graph](https://activity-graph.herokuapp.com/graph?username=neel123go&bg_color=ffffff&color=777777&line=65D07D&point=151515&area=true&hide_border=true)](https://github.com/neel123go/github-readme-activity-graph)
+[![Ayoun Paul Neel's github activity graph](https://activity-graph.herokuapp.com/graph?username=neel123go&bg_color=ffffff&color=777777&line=151515&point=65D07D&area=true&hide_border=true)](https://github.com/neel123go/github-readme-activity-graph)
 
 ## Github Stats  
 
