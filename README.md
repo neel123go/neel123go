@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQHfnu6ZG7N64A/profile-displaybackgroundimage-shrink_350_1400/0/1663688880009?e=1669248000&v=beta&t=BM1tLjPSJ7DnUlMWjicjNTO7KPzHrhbaw_bTRJ_4kY8" align="center" style="width: 100%" />
-  <h1 align="center">Hi there 👋, I'm Ayoun Paul Neel</h1>
+  <h3 align="center">Hi there 👋, I'm Ayoun Paul Neel</h1>
 </div>  
-<h4 align="center">A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development</h3>
+<h5 align="center">A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development</h3>
 
 <!-- <p align="left">Hi! I am Ayoun Paul Neel, A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development.</p>   -->
   
@@ -27,7 +27,14 @@
 
 ## Github Stats  
 
-<div align="center">
+
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=neel123go&show_icons=true&theme=radical" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel123go&layout=compact" />
+
+
+
+
+<!-- <div align="center">
     <p>
 
 ![neel123go's Stats](https://github-readme-stats.vercel.app/api?username=neel123go&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
@@ -37,13 +44,7 @@
 ![neel123go's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=tokyonight&hide_border=true)
     </p>
   </tr>
-</div>  
-
-
-
-
-
-
+</div>   -->
 
 <br/>
 
