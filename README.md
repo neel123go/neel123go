@@ -71,8 +71,8 @@
 ## Github Stats  
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=neel123go&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neel123go&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neel123go&theme=dark&hide_border=true" />
 </div>
 
 
