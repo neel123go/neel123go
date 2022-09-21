@@ -41,7 +41,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Sanity](https://img.shields.io/badge/sanity-white?style=for-the-badge&logo=sanity&badgeColor-CA4245)
 ![Rest API](https://img.shields.io/badge/restapi-white.svg?style=for-the-badge&logo=rest-api&logoColor=%2338B2AC)
-![JWT Token](https://img.shields.io/badge/jwttoken-black?style=for-the-badge&logo=jwttoken&badgeColor=%010101)
+![JWT Token](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtoken&badgeColor=010101)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b&border=black)
