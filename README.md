@@ -2,7 +2,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/D5616AQG3dr9Tj9fdew/profile-displaybackgroundimage-shrink_350_1400/0/1663742956972?e=1669248000&v=beta&t=eleX9kXJoT3zizR6iNcpokoA8U6ikmTC36YHnOYRAN4" align="center" style="width: 100%" />
   <h3 align="center">Hi there 👋, I'm Ayoun Paul Neel</h1>
 </div>  
-<h3 align="center">A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development</h3>
+<h4 align="center">A web developer who is fascinated by everything in web development. I care about writing clean code and genuinely love to learn more about web development</h4>
   <br/>
 
 - 🔭 I’m currently working on [Capture Web Application](https://capture-e966c.web.app/)  
