@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Capture Web Application](https://capture-e966c.web.app/)  
   
 
-- 🌱 I’m currently learning Next.JS  
+- 🌱 I’m currently learning [Next.JS](https://nextjs.org/docs/getting-started)  
   
 
 - ❓ Ask me about anything related to Web Development  
