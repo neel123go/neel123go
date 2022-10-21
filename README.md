@@ -8,13 +8,13 @@
 - 🔭 I’m currently working on [Capture Web Application](https://capture-e966c.web.app/)  
   
 
-- 🌱 I’m currently learning Redux  
+- 🌱 I’m currently learning Next.JS  
   
 
 - ❓ Ask me about anything related to Web Development  
   
 
-- ✉️ How to reach me ayounpaul1029@gmail.com  
+- ✉️ How to reach me ayounpaul.neel@gmail.com  
   
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1dd5WJRalDhF3a3kVBnPXzs7fyaqggb02/view)  
