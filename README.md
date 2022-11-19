@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Capture Web Application](https://capture-e966c.web.app/)  
   
 
-- 🌱 I’m currently learning [Next.JS](https://nextjs.org/docs/getting-started)  
+- 🌱 I’m currently learning [Redux](https://redux.js.org/introduction/getting-started)  
   
 
 - ❓ Ask me about anything related to Web Development  
@@ -48,6 +48,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/endpoint?color=%2342D7AE&label=Render&logo=render&logoColor=%2342D7AE&style=social&url=render)
 
 <br/>
 
