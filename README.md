@@ -48,7 +48,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/render-%ffffff.svg?style=for-the-badge&logo=render&logoColor=#42D7AE)
+![Render](https://img.shields.io/badge/render-white.svg?style=for-the-badge&logo=render&logoColor=#42D7AE)
 
 <br/>
 
